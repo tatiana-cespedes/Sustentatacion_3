@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="expo">Expositions</string>
+    <string name="prac">Practices</string>
+    <string name="proy">Projects</string>
+    <string name="calc">     Calculate     </string>
+    <string name="notafinal">Final grade</string>
+    <string name="titulo">% Setting</string>
+    <string name="guardar">Save</string>
+    <string name="config">Configure</string>
+    <string name="AcercaDe">About..</string>
+
+</resources>
